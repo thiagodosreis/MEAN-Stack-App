@@ -1,0 +1,17 @@
+{
+  "name": "Thiago'FinalProject",
+  "description": "This is the final project for MEAN Stack call made by Thiago dos Reis",
+  "main": "",
+  "authors": [
+    "Thiago dos Reis"
+  ],
+  "license": "MIT",
+  "homepage": "",
+  "ignore": [
+    "**/.*",
+    "node_modules",
+    "bower_components",
+    "test",
+    "tests"
+  ]
+}
